@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "courageous-yellow-french-fries",
+    "slug": "snack-85d1a43d-7234-483f-8d9d-da6b9c03878a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/mercado.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/mercado.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/mercado.png"
+    }
+  }
+}
